@@ -16,6 +16,6 @@ Next time you drop by, the above sentence might have changed to *I am a PRO Soft
 - 🌱 I’m currently learning backend development using nodejs and python.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Frontend Engineer, or Backend Engineer (Intern or Junior level).
-- 📫 You can view projects I have worked on [here](https://github.com/omobolajisonde/repositories) and contact me via <a href="mailto:wisdomomobolaji@gmail.com">email</a>.
+- 📫 You can view projects I have worked on [here](https://github.com/omobolajisonde?tab=repositories) and contact me via <a href="mailto:wisdomomobolaji@gmail.com">email</a>.
 
 ---
