@@ -1,4 +1,4 @@
-<a href="https://altschoolafrica.com/schools/engineering">![altschool](![Altschool](https://user-images.githubusercontent.com/70530526/194542288-5c06b04e-0baf-4c2a-a7b6-8099ff7beb37.png)</a>
+<a href="https://altschoolafrica.com/schools/engineering">![Altschool](https://user-images.githubusercontent.com/70530526/194542288-5c06b04e-0baf-4c2a-a7b6-8099ff7beb37.png)</a>
 <a href="https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd0044">![udacity](https://user-images.githubusercontent.com/70530526/184998992-6c1d8bd1-708c-43de-895a-dbfaa2758e3b.png)</a>
 <a href="#">![personal](https://user-images.githubusercontent.com/70530526/184999044-40b53b6a-25e8-44fb-8e24-d2e329c9c1e8.png)</a>
 <a href="https://www.linkedin.com/in/omobolajisonde/">![linkedin](https://user-images.githubusercontent.com/70530526/184999082-9a0530fc-a780-40cc-9046-35b18913ce8c.png)</a>
