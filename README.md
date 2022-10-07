@@ -8,7 +8,6 @@
 # Hello there, welcome 👋🏾
 
 I am currently on a journey to become a PRO Software Engineer, honing my skills in developing websites, full stack web applications, APIs etc.
-Next time you drop by, the above sentence might have changed to *I am a PRO Software Engineer* :).
 
 **Here's a quick summary about me**:
 
@@ -19,5 +18,12 @@ Next time you drop by, the above sentence might have changed to *I am a PRO Soft
 - 💼 Job interests: Software Engineer, Frontend Engineer, or Backend Engineer (Intern or Junior level).
 - 📫 You can view projects I have worked on [here](https://github.com/omobolajisonde?tab=repositories) and contact me via <a href="mailto:wisdomomobolaji@gmail.com">email</a>.
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omobolajisonde&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omobolajisonde&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=omobolajisonde&theme=tokyonight&layout=compact" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omobolajisonde&theme=dark&layout=compact" />
+</a>
+</div>
