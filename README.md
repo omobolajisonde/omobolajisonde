@@ -19,7 +19,7 @@ I am currently on a journey to become a PRO Software Engineer, honing my skills 
 - 📫 You can view projects I have worked on [here](https://github.com/omobolajisonde?tab=repositories) and contact me via <a href="mailto:wisdomomobolaji@gmail.com">email</a>.
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=omobolajisonde&theme=tokyonight&show_icons=true&include_all_commits=true&hide_border=true" alt="Bolaji's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omobolajisonde&theme=dark&layout=compact&langs_count=8&hide=php&hide_border=true" alt="Bolaji's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=omobolajisonde&theme=tokyonight&show_icons=true&hide_border=true" alt="Bolaji's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omobolajisonde&theme=dark&layout=compact&langs_count=8&hide=php&hide_border=true" alt="Bolaji's GitHub stats" /> |
 | ------------- | ------------- |
 
 <img src="https://gpvc.arturio.dev/omobolajisonde" alt="profile views">
