@@ -18,5 +18,6 @@ Next time you drop by, the above sentence might have changed to *I am a PRO Soft
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Frontend Engineer, or Backend Engineer (Intern or Junior level).
 - 📫 You can view projects I have worked on [here](https://github.com/omobolajisonde?tab=repositories) and contact me via <a href="mailto:wisdomomobolaji@gmail.com">email</a>.
-
 ---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omobolajisonde&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omobolajisonde&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
