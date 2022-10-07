@@ -1,7 +1,7 @@
 <a href="https://altschoolafrica.com/schools/engineering">![altschool](https://user-images.githubusercontent.com/70530526/184998938-84280644-3dfa-4dac-87a4-cfb7fb490a83.png)</a>
 <a href="https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd0044">![udacity](https://user-images.githubusercontent.com/70530526/184998992-6c1d8bd1-708c-43de-895a-dbfaa2758e3b.png)</a>
 <a href="#">![personal](https://user-images.githubusercontent.com/70530526/184999044-40b53b6a-25e8-44fb-8e24-d2e329c9c1e8.png)</a>
-<a href="https://www.linkedin.com/in/omobolaji-sonde-60280919b/">![linkedin](https://user-images.githubusercontent.com/70530526/184999082-9a0530fc-a780-40cc-9046-35b18913ce8c.png)</a>
+<a href="https://www.linkedin.com/in/omobolajisonde/">![linkedin](https://user-images.githubusercontent.com/70530526/184999082-9a0530fc-a780-40cc-9046-35b18913ce8c.png)</a>
 <a href="https://twitter.com/iamsonde">![tw](https://user-images.githubusercontent.com/70530526/184999108-c9458e59-4450-4d66-b5e7-c76f5342d421.png)</a>
 
 # Hello there, welcome 👋🏾
