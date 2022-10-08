@@ -12,7 +12,7 @@ I am currently on a journey to become a PRO Software Engineer, honing my skills 
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at AltSchool Africa, [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022. Also, learning Full Stack Web Development at [Udacity](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd0044).
+- 📚 I'm currently studying at AltSchool Africa, [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022. Also, learning Full Stack Web Development at [Udacity](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd0044).
 - 🌱 I’m currently learning backend development using nodejs and python.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Frontend Engineer, or Backend Engineer (Intern or Junior level).
