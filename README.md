@@ -1,9 +1,4 @@
-<a href="https://altschoolafrica.com/schools/engineering">![alt](https://user-images.githubusercontent.com/70530526/194544818-3ed163d3-0a22-4bcc-8441-0888bd6a2036.png)
-</a>
-<a href="https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd0044">![uda](https://user-images.githubusercontent.com/70530526/194544944-14789b81-9cd3-44f3-be21-1438ba5a04c1.png)</a>
-
-
-# Hello there, welcome 👋🏾
+# Hey there, welcome to my GitHub pag!🏾
 
 I'm a full stack web developer who loves solving real-world problems through code. I specialize in HTML, CSS, JavaScript, Node.js, Python and frameworks like React, Express, and Flask. Some of my notable projects include [Natours](https://github.com/omobolajisonde/Natours) and [Fyyur](https://github.com/omobolajisonde/Fyyur). I'm dedicated to delivering high-quality solutions that exceed expectations, whether working solo or as part of a team.
 
@@ -16,11 +11,13 @@ I'm a full stack web developer who loves solving real-world problems through cod
 - 📫 You can view projects I have worked on [here](https://github.com/omobolajisonde?tab=repositories) and contact me via <a href="mailto:wisdomomobolaji@gmail.com">email</a>.
 ---
 Let's keep in touch
+
 <a href="https://www.linkedin.com/in/omobolajisonde/">![in](https://user-images.githubusercontent.com/70530526/194545129-cbf39e7d-4585-4496-8ecb-af2110e9a6a5.png)</a>
 <a href="https://twitter.com/iamsonde">![tw](https://user-images.githubusercontent.com/70530526/194545182-2a7e8263-28a5-4258-8a71-7612f5f3d1bf.png)</a>
 <a href="#">![link](https://user-images.githubusercontent.com/70530526/194545073-72e9972d-66a9-4b10-b217-ddca946946b3.png)</a>
 ---
-Tech Stack (Technologies and Tools)
+Tech Stack ### (Technologies and Tools)
+
 ![html](https://user-images.githubusercontent.com/70530526/225276225-b0feb6a6-dd6e-42a3-a37e-797873013785.png)
 ![css](https://user-images.githubusercontent.com/70530526/225276324-49afacde-ffe4-49b3-b819-624bf980b061.png)
 ![sass](https://user-images.githubusercontent.com/70530526/225276362-f358ec3c-bd0a-430e-8edb-bb042b00acea.png)
