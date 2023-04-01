@@ -1,6 +1,6 @@
 # Hey there, welcome to my GitHub page!
 
-I'm a full stack web developer who loves solving real-world problems through code. I specialize in HTML, CSS, JavaScript, Node.js, Python and frameworks like React, Express, and Flask. Some of my notable projects include [Natours](https://github.com/omobolajisonde/Natours) and [Fyyur](https://github.com/omobolajisonde/Fyyur). I'm dedicated to delivering high-quality solutions that exceed expectations, whether working solo or as part of a team.
+I'm a full stack web developer who loves solving real-world problems through code. I specialize in HTML, CSS, JavaScript, Node.js, Python and frameworks like React, Express, and Flask. I'm dedicated to delivering high-quality solutions that exceed expectations, whether working solo or as part of a team.
 
 **Here's a quick summary about me**:
 
