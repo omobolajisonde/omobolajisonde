@@ -1,6 +1,6 @@
 # Hey there, welcome to my GitHub page!
 
-I'm a full-stack web developer who loves solving real-world problems through code. I specialize in HTML, CSS, JavaScript, TypeScript, Node.js, Python, and frameworks like React.js, Express.js, Nest.js, and Flask. I'm dedicated to delivering high-quality solutions that exceed expectations, whether working solo or as part of a team.
+I'm a full-stack web developer passionate about solving real-world problems through code. I specialize in HTML, CSS, JavaScript, TypeScript, Node.js, Python, and frameworks like React.js, Express.js, Nest.js, and Flask. I'm dedicated to delivering high-quality solutions that exceed expectations, whether working solo or as part of a team.
 
 **Here's a quick summary about me**:
 
