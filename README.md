@@ -1,13 +1,13 @@
 # Hey there, welcome to my GitHub page!
 
-I'm a full stack web developer who loves solving real-world problems through code. I specialize in HTML, CSS, JavaScript, Node.js, Python and frameworks like React, Express, and Flask. I'm dedicated to delivering high-quality solutions that exceed expectations, whether working solo or as part of a team.
+I'm a full-stack web developer who loves solving real-world problems through code. I specialize in HTML, CSS, JavaScript, TypeScript, Node.js, Python, and frameworks like React.js, Express.js, Nest.js, and Flask. I'm dedicated to delivering high-quality solutions that exceed expectations, whether working solo or as part of a team.
 
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 📚 I'm currently enrolled at AltSchool Africa, [School of Software Engineering](https://altschoolafrica.com/schools/engineering) where I'm honing my backend skills and learning new technologies. My goal is to become a well-rounded developer who is proficient in both frontend and backend development.
-- 😊 I'm actively seeking opportunities to get involved with open source projects, hackathons, and internships, as well as entry-level positions in the industry. I'm passionate about collaborating with other developers to create innovative solutions and am always eager to learn new skills and technologies.
-- 💼 Job interests: Software Engineer, Frontend Engineer, or Backend Engineer (Intern or Junior level).
+- 📚 AltSchool Africa, [School of Software Engineering](https://altschoolafrica.com/schools/engineering) graduate.
+- 😊 I'm actively seeking opportunities to get involved with open-source projects, hackathons, and entry-level positions in the industry. I'm passionate about collaborating with other developers to create innovative solutions and am always eager to learn new skills and technologies.
+- 💼 Job interests: Software Engineer, Frontend Engineer, or Backend Engineer.
 - 📫 You can view projects I have worked on [here](https://github.com/omobolajisonde?tab=repositories) and contact me via <a href="mailto:wisdomomobolaji@gmail.com">email</a>.
 ---
 Let's keep in touch
